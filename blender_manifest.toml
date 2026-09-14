@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "rpj"
+version = "0.1.0"
+name = "rpj"
+tagline = "rpj"
+maintainer = "Vincent Valko"
+type = "add-on"
+blender_version_min = "5.0.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
