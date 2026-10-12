@@ -12,8 +12,8 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 bl_info = {
-    "name": "ADDON_NAME",
-    "author": "AUTHOR_NAME",
+    "name": "RPJ",
+    "author": "Vincent Valkocb",
     "description": "",
     "blender": (2, 80, 0),
     "version": (0, 0, 1),
